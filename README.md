@@ -73,7 +73,7 @@ A comprehensive web-based solution for modern airline operations, designed to st
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yashyogeshkathane/flight-management-system
+   git clone https://github.com/yashyogeshkathane/flight-management-system.git
    cd Flight-Management-System
    ```
 
@@ -117,12 +117,6 @@ We welcome contributions to improve this system. Please follow these steps:
 4. Push to the branch
 5. Create a Pull Request
 
-## Support
-
-For technical support or inquiries, please contact:
-- Email: [Your Support Email]
-- Issue Tracker: [GitHub Issues]
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -149,7 +143,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yashyogeshkathane/flight-management-system
+git clone https://github.com/yashyogeshkathane/flight-management-system.git
 cd Flight-Management-System
 ```
 ### Database Setup
